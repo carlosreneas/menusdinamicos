@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=FormularioTxt
+comment1.params=
+comment1.target=FormularioTxt()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Formulario\r\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3
